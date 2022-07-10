@@ -44,7 +44,6 @@ def validation_template():
             break
         else:
             print('Шаблон не найден!')
-
     return template
 
 def make_theme():
