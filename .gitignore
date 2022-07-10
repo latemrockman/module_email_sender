@@ -1,6 +1,5 @@
-attachments/
-.idea/
-__pycache__/
+attachments
+.idea
+__pycache__
 template.html
 login.py
-
